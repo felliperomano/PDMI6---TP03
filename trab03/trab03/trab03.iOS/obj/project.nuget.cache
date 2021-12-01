@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c3E17796gntn95GZBofEJuEsWED4TjErZtp7x/jiV1BwB1q6q4a1RoivfOgWN+qxj2SpvOxCr/BeQsPOTI17LQ==",
+  "success": true,
+  "projectFilePath": "C:\\TP3\\PDMI6---TP03\\trab03\\trab03\\trab03.iOS\\trab03.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felli\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Felli\\.nuget\\packages\\xamarin.forms\\3.4.0.1008975\\xamarin.forms.3.4.0.1008975.nupkg.sha512"
+  ],
+  "logs": []
+}

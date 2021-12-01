@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:trab03"
+             x:Class="trab03.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+
+        <Button x:Name="btnEnv" Clicked="Res_Clicked" Text="Dar GET" />
+
+        <Label x:Name="cep" Text="{Binding cep}" TextColor="#babaca"></Label>
+        <Label x:Name="logradouro" Text="{Binding logradouro}" TextColor="#babaca"></Label>
+        <Label x:Name="complemento" Text="{Binding complemento}" TextColor="#babaca"></Label>
+        <Label x:Name="bairro" Text="{Binding bairro}" TextColor="#babaca"></Label>
+        <Label x:Name="localidade" Text="{Binding localidade}" TextColor="#babaca"></Label>
+        <Label x:Name="uf" Text="{Binding uf}" TextColor="#babaca"></Label>
+
+    </StackLayout>
+
+</ContentPage>
